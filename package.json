@@ -1,0 +1,23 @@
+{
+  "name": "looplab",
+  "version": "1.0.0",
+  "description": "Social UI Theme",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Selvam Chandran",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "font-awesome": "^4.7.0",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.12.9",
+    "tether": "^1.4.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.19.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
